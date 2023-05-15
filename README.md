@@ -2,7 +2,7 @@
 <h2 align="center">Laravel TeamEfficientTech Project(php8.0, laravel-10.0)</h2>
 <p align="center">Live preview: <a href="https://devapp.teamefficienttech.com/">TeamEfficientTech</a></p><br>
 <p align="center">
-<img src="https://github.com/perfectwork829/Laravel-TeamEfficientTech/public/dashboard-page.png" width="550" alt="TeamEfficientTech">
+<img src="https://github.com/perfectwork829/Laravel-TeamEfficientTech/blob/main/public/dashboard-page.png" width="550" alt="TeamEfficientTech">
 </p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>

@@ -1,0 +1,1 @@
+[31-Mar-2023 02:09:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\TimeEntryController::update() in /home/teameffi/public_html/app.teamefficienttech.com/app/Http/Controllers/Admin/TimeEntryController.php on line 129

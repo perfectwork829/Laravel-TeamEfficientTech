@@ -1,0 +1,1 @@
+[31-Mar-2023 02:07:21 UTC] PHP Fatal error:  Cannot declare class AddTotalTimeAndLunchLengthToTimeEntriesTable, because the name is already in use in /home/teameffi/public_html/app.teamefficienttech.com/database/migrations/2023_03_31_020638_add_total_times_to_time_entries_table.php on line 7
